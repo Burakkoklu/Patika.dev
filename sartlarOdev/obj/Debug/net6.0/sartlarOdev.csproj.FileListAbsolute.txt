@@ -1,0 +1,15 @@
+C:\Users\BURAK\Desktop\Pratikler\sartlarOdev\bin\Debug\net6.0\sartlarOdev.exe
+C:\Users\BURAK\Desktop\Pratikler\sartlarOdev\bin\Debug\net6.0\sartlarOdev.deps.json
+C:\Users\BURAK\Desktop\Pratikler\sartlarOdev\bin\Debug\net6.0\sartlarOdev.runtimeconfig.json
+C:\Users\BURAK\Desktop\Pratikler\sartlarOdev\bin\Debug\net6.0\sartlarOdev.dll
+C:\Users\BURAK\Desktop\Pratikler\sartlarOdev\bin\Debug\net6.0\sartlarOdev.pdb
+C:\Users\BURAK\Desktop\Pratikler\sartlarOdev\obj\Debug\net6.0\sartlarOdev.csproj.AssemblyReference.cache
+C:\Users\BURAK\Desktop\Pratikler\sartlarOdev\obj\Debug\net6.0\sartlarOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BURAK\Desktop\Pratikler\sartlarOdev\obj\Debug\net6.0\sartlarOdev.AssemblyInfoInputs.cache
+C:\Users\BURAK\Desktop\Pratikler\sartlarOdev\obj\Debug\net6.0\sartlarOdev.AssemblyInfo.cs
+C:\Users\BURAK\Desktop\Pratikler\sartlarOdev\obj\Debug\net6.0\sartlarOdev.csproj.CoreCompileInputs.cache
+C:\Users\BURAK\Desktop\Pratikler\sartlarOdev\obj\Debug\net6.0\sartlarOdev.dll
+C:\Users\BURAK\Desktop\Pratikler\sartlarOdev\obj\Debug\net6.0\refint\sartlarOdev.dll
+C:\Users\BURAK\Desktop\Pratikler\sartlarOdev\obj\Debug\net6.0\sartlarOdev.pdb
+C:\Users\BURAK\Desktop\Pratikler\sartlarOdev\obj\Debug\net6.0\sartlarOdev.genruntimeconfig.cache
+C:\Users\BURAK\Desktop\Pratikler\sartlarOdev\obj\Debug\net6.0\ref\sartlarOdev.dll
