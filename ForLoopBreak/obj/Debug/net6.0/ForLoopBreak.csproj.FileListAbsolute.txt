@@ -1,0 +1,15 @@
+C:\Users\BURAK\Desktop\Pratikler\ForLoopBreak\bin\Debug\net6.0\ForLoopBreak.exe
+C:\Users\BURAK\Desktop\Pratikler\ForLoopBreak\bin\Debug\net6.0\ForLoopBreak.deps.json
+C:\Users\BURAK\Desktop\Pratikler\ForLoopBreak\bin\Debug\net6.0\ForLoopBreak.runtimeconfig.json
+C:\Users\BURAK\Desktop\Pratikler\ForLoopBreak\bin\Debug\net6.0\ForLoopBreak.dll
+C:\Users\BURAK\Desktop\Pratikler\ForLoopBreak\bin\Debug\net6.0\ForLoopBreak.pdb
+C:\Users\BURAK\Desktop\Pratikler\ForLoopBreak\obj\Debug\net6.0\ForLoopBreak.csproj.AssemblyReference.cache
+C:\Users\BURAK\Desktop\Pratikler\ForLoopBreak\obj\Debug\net6.0\ForLoopBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BURAK\Desktop\Pratikler\ForLoopBreak\obj\Debug\net6.0\ForLoopBreak.AssemblyInfoInputs.cache
+C:\Users\BURAK\Desktop\Pratikler\ForLoopBreak\obj\Debug\net6.0\ForLoopBreak.AssemblyInfo.cs
+C:\Users\BURAK\Desktop\Pratikler\ForLoopBreak\obj\Debug\net6.0\ForLoopBreak.csproj.CoreCompileInputs.cache
+C:\Users\BURAK\Desktop\Pratikler\ForLoopBreak\obj\Debug\net6.0\ForLoopBreak.dll
+C:\Users\BURAK\Desktop\Pratikler\ForLoopBreak\obj\Debug\net6.0\refint\ForLoopBreak.dll
+C:\Users\BURAK\Desktop\Pratikler\ForLoopBreak\obj\Debug\net6.0\ForLoopBreak.pdb
+C:\Users\BURAK\Desktop\Pratikler\ForLoopBreak\obj\Debug\net6.0\ForLoopBreak.genruntimeconfig.cache
+C:\Users\BURAK\Desktop\Pratikler\ForLoopBreak\obj\Debug\net6.0\ref\ForLoopBreak.dll
