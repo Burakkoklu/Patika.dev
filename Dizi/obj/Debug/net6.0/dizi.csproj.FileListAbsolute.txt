@@ -1,0 +1,15 @@
+C:\Users\BURAK\Desktop\Pratikler\Dizi\bin\Debug\net6.0\dizi.exe
+C:\Users\BURAK\Desktop\Pratikler\Dizi\bin\Debug\net6.0\dizi.deps.json
+C:\Users\BURAK\Desktop\Pratikler\Dizi\bin\Debug\net6.0\dizi.runtimeconfig.json
+C:\Users\BURAK\Desktop\Pratikler\Dizi\bin\Debug\net6.0\dizi.dll
+C:\Users\BURAK\Desktop\Pratikler\Dizi\bin\Debug\net6.0\dizi.pdb
+C:\Users\BURAK\Desktop\Pratikler\Dizi\obj\Debug\net6.0\dizi.csproj.AssemblyReference.cache
+C:\Users\BURAK\Desktop\Pratikler\Dizi\obj\Debug\net6.0\dizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BURAK\Desktop\Pratikler\Dizi\obj\Debug\net6.0\dizi.AssemblyInfoInputs.cache
+C:\Users\BURAK\Desktop\Pratikler\Dizi\obj\Debug\net6.0\dizi.AssemblyInfo.cs
+C:\Users\BURAK\Desktop\Pratikler\Dizi\obj\Debug\net6.0\dizi.csproj.CoreCompileInputs.cache
+C:\Users\BURAK\Desktop\Pratikler\Dizi\obj\Debug\net6.0\dizi.dll
+C:\Users\BURAK\Desktop\Pratikler\Dizi\obj\Debug\net6.0\refint\dizi.dll
+C:\Users\BURAK\Desktop\Pratikler\Dizi\obj\Debug\net6.0\dizi.pdb
+C:\Users\BURAK\Desktop\Pratikler\Dizi\obj\Debug\net6.0\dizi.genruntimeconfig.cache
+C:\Users\BURAK\Desktop\Pratikler\Dizi\obj\Debug\net6.0\ref\dizi.dll
