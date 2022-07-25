@@ -1,0 +1,15 @@
+C:\Users\BURAK\Desktop\Pratikler\WhileForeach\bin\Debug\net6.0\whileforeach.exe
+C:\Users\BURAK\Desktop\Pratikler\WhileForeach\bin\Debug\net6.0\whileforeach.deps.json
+C:\Users\BURAK\Desktop\Pratikler\WhileForeach\bin\Debug\net6.0\whileforeach.runtimeconfig.json
+C:\Users\BURAK\Desktop\Pratikler\WhileForeach\bin\Debug\net6.0\whileforeach.dll
+C:\Users\BURAK\Desktop\Pratikler\WhileForeach\bin\Debug\net6.0\whileforeach.pdb
+C:\Users\BURAK\Desktop\Pratikler\WhileForeach\obj\Debug\net6.0\whileforeach.csproj.AssemblyReference.cache
+C:\Users\BURAK\Desktop\Pratikler\WhileForeach\obj\Debug\net6.0\whileforeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BURAK\Desktop\Pratikler\WhileForeach\obj\Debug\net6.0\whileforeach.AssemblyInfoInputs.cache
+C:\Users\BURAK\Desktop\Pratikler\WhileForeach\obj\Debug\net6.0\whileforeach.AssemblyInfo.cs
+C:\Users\BURAK\Desktop\Pratikler\WhileForeach\obj\Debug\net6.0\whileforeach.csproj.CoreCompileInputs.cache
+C:\Users\BURAK\Desktop\Pratikler\WhileForeach\obj\Debug\net6.0\whileforeach.dll
+C:\Users\BURAK\Desktop\Pratikler\WhileForeach\obj\Debug\net6.0\refint\whileforeach.dll
+C:\Users\BURAK\Desktop\Pratikler\WhileForeach\obj\Debug\net6.0\whileforeach.pdb
+C:\Users\BURAK\Desktop\Pratikler\WhileForeach\obj\Debug\net6.0\whileforeach.genruntimeconfig.cache
+C:\Users\BURAK\Desktop\Pratikler\WhileForeach\obj\Debug\net6.0\ref\whileforeach.dll
