@@ -1,0 +1,15 @@
+C:\Users\BURAK\Desktop\Pratikler\Metot\bin\Debug\net6.0\metot.exe
+C:\Users\BURAK\Desktop\Pratikler\Metot\bin\Debug\net6.0\metot.deps.json
+C:\Users\BURAK\Desktop\Pratikler\Metot\bin\Debug\net6.0\metot.runtimeconfig.json
+C:\Users\BURAK\Desktop\Pratikler\Metot\bin\Debug\net6.0\metot.dll
+C:\Users\BURAK\Desktop\Pratikler\Metot\bin\Debug\net6.0\metot.pdb
+C:\Users\BURAK\Desktop\Pratikler\Metot\obj\Debug\net6.0\metot.csproj.AssemblyReference.cache
+C:\Users\BURAK\Desktop\Pratikler\Metot\obj\Debug\net6.0\metot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BURAK\Desktop\Pratikler\Metot\obj\Debug\net6.0\metot.AssemblyInfoInputs.cache
+C:\Users\BURAK\Desktop\Pratikler\Metot\obj\Debug\net6.0\metot.AssemblyInfo.cs
+C:\Users\BURAK\Desktop\Pratikler\Metot\obj\Debug\net6.0\metot.csproj.CoreCompileInputs.cache
+C:\Users\BURAK\Desktop\Pratikler\Metot\obj\Debug\net6.0\metot.dll
+C:\Users\BURAK\Desktop\Pratikler\Metot\obj\Debug\net6.0\refint\metot.dll
+C:\Users\BURAK\Desktop\Pratikler\Metot\obj\Debug\net6.0\metot.pdb
+C:\Users\BURAK\Desktop\Pratikler\Metot\obj\Debug\net6.0\metot.genruntimeconfig.cache
+C:\Users\BURAK\Desktop\Pratikler\Metot\obj\Debug\net6.0\ref\metot.dll
