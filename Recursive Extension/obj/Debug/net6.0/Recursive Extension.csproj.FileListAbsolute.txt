@@ -1,0 +1,15 @@
+C:\Users\BURAK\Desktop\Pratikler\Recursive Extension\bin\Debug\net6.0\Recursive Extension.exe
+C:\Users\BURAK\Desktop\Pratikler\Recursive Extension\bin\Debug\net6.0\Recursive Extension.deps.json
+C:\Users\BURAK\Desktop\Pratikler\Recursive Extension\bin\Debug\net6.0\Recursive Extension.runtimeconfig.json
+C:\Users\BURAK\Desktop\Pratikler\Recursive Extension\bin\Debug\net6.0\Recursive Extension.dll
+C:\Users\BURAK\Desktop\Pratikler\Recursive Extension\bin\Debug\net6.0\Recursive Extension.pdb
+C:\Users\BURAK\Desktop\Pratikler\Recursive Extension\obj\Debug\net6.0\Recursive Extension.csproj.AssemblyReference.cache
+C:\Users\BURAK\Desktop\Pratikler\Recursive Extension\obj\Debug\net6.0\Recursive Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BURAK\Desktop\Pratikler\Recursive Extension\obj\Debug\net6.0\Recursive Extension.AssemblyInfoInputs.cache
+C:\Users\BURAK\Desktop\Pratikler\Recursive Extension\obj\Debug\net6.0\Recursive Extension.AssemblyInfo.cs
+C:\Users\BURAK\Desktop\Pratikler\Recursive Extension\obj\Debug\net6.0\Recursive Extension.csproj.CoreCompileInputs.cache
+C:\Users\BURAK\Desktop\Pratikler\Recursive Extension\obj\Debug\net6.0\Recursive Extension.dll
+C:\Users\BURAK\Desktop\Pratikler\Recursive Extension\obj\Debug\net6.0\refint\Recursive Extension.dll
+C:\Users\BURAK\Desktop\Pratikler\Recursive Extension\obj\Debug\net6.0\Recursive Extension.pdb
+C:\Users\BURAK\Desktop\Pratikler\Recursive Extension\obj\Debug\net6.0\Recursive Extension.genruntimeconfig.cache
+C:\Users\BURAK\Desktop\Pratikler\Recursive Extension\obj\Debug\net6.0\ref\Recursive Extension.dll
