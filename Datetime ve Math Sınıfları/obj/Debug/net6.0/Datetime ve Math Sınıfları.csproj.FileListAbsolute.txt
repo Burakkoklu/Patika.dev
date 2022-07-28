@@ -1,0 +1,15 @@
+C:\Users\BURAK\Desktop\Pratikler\Datetime ve Math Sınıfları\bin\Debug\net6.0\Datetime ve Math Sınıfları.exe
+C:\Users\BURAK\Desktop\Pratikler\Datetime ve Math Sınıfları\bin\Debug\net6.0\Datetime ve Math Sınıfları.deps.json
+C:\Users\BURAK\Desktop\Pratikler\Datetime ve Math Sınıfları\bin\Debug\net6.0\Datetime ve Math Sınıfları.runtimeconfig.json
+C:\Users\BURAK\Desktop\Pratikler\Datetime ve Math Sınıfları\bin\Debug\net6.0\Datetime ve Math Sınıfları.dll
+C:\Users\BURAK\Desktop\Pratikler\Datetime ve Math Sınıfları\bin\Debug\net6.0\Datetime ve Math Sınıfları.pdb
+C:\Users\BURAK\Desktop\Pratikler\Datetime ve Math Sınıfları\obj\Debug\net6.0\Datetime ve Math Sınıfları.csproj.AssemblyReference.cache
+C:\Users\BURAK\Desktop\Pratikler\Datetime ve Math Sınıfları\obj\Debug\net6.0\Datetime ve Math Sınıfları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BURAK\Desktop\Pratikler\Datetime ve Math Sınıfları\obj\Debug\net6.0\Datetime ve Math Sınıfları.AssemblyInfoInputs.cache
+C:\Users\BURAK\Desktop\Pratikler\Datetime ve Math Sınıfları\obj\Debug\net6.0\Datetime ve Math Sınıfları.AssemblyInfo.cs
+C:\Users\BURAK\Desktop\Pratikler\Datetime ve Math Sınıfları\obj\Debug\net6.0\Datetime ve Math Sınıfları.csproj.CoreCompileInputs.cache
+C:\Users\BURAK\Desktop\Pratikler\Datetime ve Math Sınıfları\obj\Debug\net6.0\Datetime ve Math Sınıfları.dll
+C:\Users\BURAK\Desktop\Pratikler\Datetime ve Math Sınıfları\obj\Debug\net6.0\refint\Datetime ve Math Sınıfları.dll
+C:\Users\BURAK\Desktop\Pratikler\Datetime ve Math Sınıfları\obj\Debug\net6.0\Datetime ve Math Sınıfları.pdb
+C:\Users\BURAK\Desktop\Pratikler\Datetime ve Math Sınıfları\obj\Debug\net6.0\Datetime ve Math Sınıfları.genruntimeconfig.cache
+C:\Users\BURAK\Desktop\Pratikler\Datetime ve Math Sınıfları\obj\Debug\net6.0\ref\Datetime ve Math Sınıfları.dll
